@@ -1,10 +1,10 @@
 # epark
 c++ lang for fun
 
-#build
+# build
 mkdir build && cd build
 cmake ..
 make
 
-#run
+# run
 ./epark_main
